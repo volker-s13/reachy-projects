@@ -1,1 +1,3 @@
-Hallo - First  programm for antennas
+from reachy_mini import ReachyMini
+
+print("SDK funktioniert!")
