@@ -45,7 +45,8 @@ with ReachyMini() as mini:
     mini.goto_target(antennas=[0, 0], duration=0.5)
 
     
-    time.sleep(1)  # Wait for the sound to finish playing   
+    time.sleep(1)  # Wait for the sound to finish playing 
+      
 
 
 
